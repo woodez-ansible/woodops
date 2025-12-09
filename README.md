@@ -1,4 +1,4 @@
-# WoodOps
+# WoodOps Goal
 
 An event-driven automation platform that combines Ansible's declarative playbook model with ZeroMQ's high-performance messaging to create a reactive infrastructure management system.
 
